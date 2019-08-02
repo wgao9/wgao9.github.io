@@ -3,45 +3,60 @@
 
 == Publications
 
+- Information-Theoretic Understanding of Population Risk Improvement with Model Compression \n
+  Yuheng Bu, *Weihao Gao*, Shaofeng Zou and Venugopal V. Veeravalli \n
+  submitted to /NeurIPS/ 2019 \n
+  [https://arxiv.org/pdf/1901.09421 PDF] [https://github.com/wgao9/weight_quant Code]
+
+- Rate Distortion for Model Compression: From Theory to Practice \n
+  *Weihao Gao*, Yu-Han Liu, Chong Wang and Sewoong Oh \n
+  /ICML/ 2019 \n
+  [https://arxiv.org/pdf/1810.06401 PDF] [https://github.com/wgao9/compression Code]
+
+- Learning One-hidden-layer Neural Networks under General Input Distribution \n
+  *Weihao Gao*, Ashok Vardhan Makkuva, Sewoong Oh and Pramod Viswanath \n
+  /AISTATS/ 2019 \n
+  [https://arxiv.org/pdf/1810.04133 PDF] [https://github.com/wgao9/score_function Code]
+
 - The Nearest Neighbor Information Estimator is Adaptively Near Minimax Rate-Optimal \n
   Jiantao Jiao, *Weihao Gao* and Yanjun Han \n
-  To be submitted to COLT 2018 \n
+  *Spotlight* presentation at /NeurIPS/ 2018 \n
   [https://arxiv.org/pdf/1711.08824 PDF]
 
 - Estimating Mutual Information for Discrete-Continuous Mixtures \n
   *Weihao Gao*, Sreeram Kannan, Sewoong Oh and Pramod Viswanath \n
-  *Spotlight* presentation at NIPS 2017 (acceptance rate 152/3240=4.7%) \n
-  [http://arxiv.org/pdf/1709.06212.pdf PDF] [http://github.com/wgao9/mixed_KSG Code] [http://github.com/wgao9/mixed_KSG/blob/master/poster.pdf Poster] [http://www.youtube.com/watch?v=hDMpgOjlMug Video]
+  *Spotlight* presentation at /NeurIPS/ 2017 \n
+  [https://arxiv.org/pdf/1709.06212.pdf PDF] [https://github.com/wgao9/mixed_KSG Code] [https://www.youtube.com/watch?v=hDMpgOjlMug Video]
 
 - Discovering Potential Correlations via Hypercontractivity \n
   Hyeji Kim, *Weihao Gao*, Sreeram Kannan, Sewoong Oh and Pramod Viswanath \n
-  NIPS 2017 (acceptance rate 678/3240=20.9%) \n
-  [http://arxiv.org/pdf/1709.04024.pdf PDF] [http://github.com/wgao9/hypercontractivity Code] [http://github.com/wgao9/hypercontractivity/blob/master/poster.pdf Poster] [https://www.youtube.com/watch?v=PXwkTt0Rvd4 Video]
+  /NeurIPS/ 2017 \n
+  [https://arxiv.org/pdf/1709.04024.pdf PDF] [https://github.com/wgao9/hypercontractivity Code] [https://www.youtube.com/watch?v=PXwkTt0Rvd4 Video]
 
-- Density Functional Estimators with k-Nearest Neighbor Bandwidths \n
+- Density Functional Estimators with /k/-Nearest Neighbor Bandwidths \n
   *Weihao Gao*, Sewoong Oh and Pramod Viswanath \n
-  ISIT 2017 \n
-  [http://arxiv.org/pdf/1702.03051.pdf PDF] 
+  /ISIT/ 2017 \n
+  [https://arxiv.org/pdf/1702.03051.pdf PDF] 
 
-- Demystifying Fixed k-Nearest Neighbor Information Estimators \n
+- Demystifying Fixed /k/-Nearest Neighbor Information Estimators \n
   *Weihao Gao*, Sewoong Oh and Pramod Viswanath \n
-  ISIT 2017 \n
-  [http://arxiv.org/pdf/1604.03006.pdf PDF] [http://github.com/wgao9/knnie Code]
+  /ISIT/ 2017 \n
+  [https://arxiv.org/pdf/1604.03006.pdf PDF] [https://github.com/wgao9/knnie Code]
 
 - Breaking the Bandwidth Barrier: Geometrical Adaptive Entropy Estimation \n
   *Weihao Gao*, Sewoong Oh and Pramod Viswanath \n
-  NIPS, 2016 (acceptance rate 568/2500=22.7%) \n
-  [http://arxiv.org/pdf/1609.02208.pdf PDF] [http://github.com/wgao9/lnn Code] [https://www.youtube.com/watch?v=TQeeP4CIyNY Video]
+  /NeurIPS/, 2016 \n
+  [https://arxiv.org/pdf/1609.02208.pdf PDF] [https://github.com/wgao9/lnn Code] [https://www.youtube.com/watch?v=TQeeP4CIyNY Video]
 
 - Conditional Dependence via Shannon Capacity: Axioms, Estimators and Applications \n
   *Weihao Gao*, Sreeram Kannan, Sewoong Oh and Pramod Viswanath \n
-  ICML, 2016 (acceptance rate 322/1327=24.3%) \n
-  [http://arxiv.org/pdf/1602.03476.pdf PDF] [http://github.com/wgao9/ucmi Code]
+  /ICML/, 2016 \n
+  [https://arxiv.org/pdf/1602.03476.pdf PDF] [https://github.com/wgao9/ucmi Code]
 
-- On the bit error rate of repeated error-correcting codes \n
+- On the Bit Error Rate of repeated Error-Correcting Codes \n
   *Weihao Gao* and Yury Polyanskiy \n
-  CISS, 2014 \n
-  [http://people.lids.mit.edu/yp/homepage/data/jscc_rep.pdf PDF]
+  /CISS/, 2014 \n
+  [https://ieeexplore.ieee.org/abstract/document/6814087 Link]
 
 
 
